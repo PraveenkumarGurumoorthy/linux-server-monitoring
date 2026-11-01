@@ -1,0 +1,7 @@
+config/email.env
+.venv/
+__pycache__/
+*.pyc
+reports/*.txt
+logs/*.log
+tests/temp/*.log
